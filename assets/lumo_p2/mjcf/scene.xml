@@ -1,0 +1,9 @@
+<mujoco model="Dobot Lumo P2 sim2sim">
+  <include file="robot.xml"/>
+  <include file="flat_plane.xml"/>
+  <worldbody>
+    <light name="key_light" directional="true" pos="0 0 4" dir="0 0 -1"
+           diffuse="1.2 1.2 1.2" castshadow="false"/>
+  </worldbody>
+</mujoco>
+

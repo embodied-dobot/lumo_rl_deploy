@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="500" viewBox="0 0 960 500" role="img" aria-labelledby="title desc">
+  <title id="title">Xbox-style gamepad: Back and Start</title>
+  <desc id="desc">Front view. Back or Select is the small center-left button and stops and saves CSV recording. Start is the small center-right button and starts CSV recording. RB is the right shoulder button.</desc>
+  <rect width="960" height="500" rx="20" fill="#f8fafc"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="480" y="38" font-size="22" fill="#0f172a">Xbox-style layout · Front view</text>
+    <g stroke="#475569" stroke-width="3">
+      <rect x="265" y="137" width="104" height="34" rx="14" fill="#cbd5e1"/>
+      <rect x="591" y="137" width="104" height="34" rx="14" fill="#cbd5e1"/>
+      <path d="M290 164 Q240 163 222 225 L175 391 Q166 432 204 443 Q234 453 261 422 L334 346 Q480 375 626 346 L699 422 Q726 453 756 443 Q794 432 785 391 L738 225 Q720 163 670 164 Z" fill="#e2e8f0"/>
+      <circle cx="310" cy="238" r="42" fill="#64748b"/>
+      <circle cx="310" cy="238" r="29" fill="#334155"/>
+      <circle cx="573" cy="320" r="39" fill="#64748b"/>
+      <circle cx="573" cy="320" r="26" fill="#334155"/>
+      <path d="M364 287 H388 V308 H409 V332 H388 V353 H364 V332 H343 V308 H364 Z" fill="#334155"/>
+      <circle cx="480" cy="202" r="20" fill="#94a3b8"/>
+    </g>
+    <g font-size="17" font-weight="bold" fill="#0f172a">
+      <text x="317" y="159">LB</text><text x="643" y="159">RB</text>
+      <circle cx="650" cy="210" r="18" fill="#facc15"/><text x="650" y="216">Y</text>
+      <circle cx="616" cy="244" r="18" fill="#60a5fa"/><text x="616" y="250">X</text>
+      <circle cx="684" cy="244" r="18" fill="#f87171"/><text x="684" y="250">B</text>
+      <circle cx="650" cy="278" r="18" fill="#4ade80"/><text x="650" y="284">A</text>
+    </g>
+    <rect x="409" y="237" width="38" height="25" rx="12" fill="#b45309"/>
+    <path d="M434 244 L423 250 L434 256 Z" fill="white"/>
+    <rect x="513" y="237" width="38" height="25" rx="12" fill="#0369a1"/>
+    <path d="M526 244 L537 250 L526 256 Z" fill="white"/>
+    <g fill="none" stroke-width="3" stroke-linejoin="round">
+      <path d="M428 234 V113 H290" stroke="#b45309"/>
+      <circle cx="428" cy="250" r="25" stroke="#b45309"/>
+      <path d="M532 234 V113 H670" stroke="#0369a1"/>
+      <circle cx="532" cy="250" r="25" stroke="#0369a1"/>
+    </g>
+    <g font-weight="bold" font-size="24">
+      <text x="204" y="86" fill="#92400e">BACK / SELECT</text>
+      <text x="756" y="86" fill="#075985">START</text>
+    </g>
+    <g font-size="18">
+      <text x="204" y="114" fill="#92400e">Stop &amp; save CSV</text>
+      <text x="756" y="114" fill="#075985">Start CSV recording</text>
+      <text x="480" y="480" fill="#475569">Real-robot logging · Press alone (no RB) · Button appearance varies by model</text>
+    </g>
+  </g>
+</svg>
